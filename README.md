@@ -33,6 +33,10 @@ Enquanto isso, os estados do Sudeste aparecem nas últimas posições com apenas
 | 24º | São Paulo | Sudeste | 1,45 |
 | 25º | Rio de Janeiro | Sudeste | 1,35 |
 ---
+## Gráfico das regiões
+![Grafico em pizza](Imagens/grafico_pizza.png)
+
+---
 ##  Tecnologias
 - SQL (BigQuery)
 - Google Sheets (visualização)
