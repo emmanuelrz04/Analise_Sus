@@ -15,7 +15,7 @@
 
 ### Nordeste lidera a cobertura
 
-Dos 10 estados com maior cobertura, 6 pertencem à região Nordeste:
+Dos 10 estados com maior cobertura, 6 pertencem à região Nordeste com 41% do total de equipes:
 
 | Posição | Estado | Região | Equipes por 10k |
 |---------|--------|--------|-----------------|
@@ -26,7 +26,7 @@ Dos 10 estados com maior cobertura, 6 pertencem à região Nordeste:
 | 6º | Sergipe | Nordeste | 3,21 |
 | 8º | Alagoas | Nordeste | 3,08 |
 
-Enquanto isso, os estados do Sudeste aparecem nas últimas posições:
+Enquanto isso, os estados do Sudeste aparecem nas últimas posições com apenas 10%:
 
 | Posição | Estado | Região | Equipes por 10k |
 |---------|--------|--------|-----------------|
