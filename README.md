@@ -3,7 +3,7 @@
 
 ##  Ranking de estados
 
-![Ranking de cobertura por estado](final.png)
+![Ranking de cobertura por estado](Imagens/final.png)
 
 ##  Principais descobertas
 
